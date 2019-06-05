@@ -1,0 +1,10 @@
+"deploy"
+Add items into inventory
+Create account
+Create order
+
+"dev"
+Add roles and privileges accordingly for buyers,sellers and admin of the projects
+Add encryption of password while registeration and decryption and validation of password in login
+Add jwt auth for required routes using router.use for all required routes using 
+order model pre save : check if inventory of that item is > 0

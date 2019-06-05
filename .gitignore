@@ -1,0 +1,11 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+/node_modules
+.env
+.vs/*
+.vscode
+.DS_Store
+package-lock.json
+dist/
+npm-debug.log
+
